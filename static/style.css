@@ -1,0 +1,14 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  /* カード中央寄せがメインなので、他は必要最小限に */
+  .score {
+    font-size: 1.5rem;
+  }
+  
+  /* リストのマークなど調整したければ */
+  ol {
+    list-style: decimal; /* デフォルトでもOK */
+  }
+  
